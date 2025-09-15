@@ -6,5 +6,3 @@ I think this article is pretty interesting because it discusses the inclusion of
 
 
 [link to article](https://ir.roblox.com/news/news-details/2025/Roblox-Unveils-AI-Monetization-and-Performance-Innovations-for-Creators/default.aspx)
-
-### comment: I think it's a good idea to use AI to make creating UGC easier. I'm sure many people have great ideas and creative minds and are bottlenecked by the actual creation process, and this should make it possible or at least easier for them to realize their ideas. - Jeffrey Chen (jzc719)
